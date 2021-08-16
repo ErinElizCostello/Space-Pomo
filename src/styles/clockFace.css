@@ -1,0 +1,23 @@
+@media screen and (min-width: 601px) {
+  .clockface {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: teal;
+    font-family: "Roboto Mono", monospace;
+    font-size: 200px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .clockface {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: teal;
+    font-family: "Roboto Mono", monospace;
+    font-size: 110px;
+  }
+}

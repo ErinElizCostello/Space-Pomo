@@ -1,0 +1,54 @@
+.minutes {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.seconds {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.stopStartResetDisplay {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 15px;
+}
+
+.increaseDecreaseDisplay {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.timerBtns {
+  border: 1px solid teal;
+  border-radius: 5px;
+  color: white;
+  background-color: teal;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 25px;
+  height: 50px;
+  width: 100px;
+  margin: 10px
+}
+
+.timerBtns:hover {
+  background-color: rgb(0, 74, 74);
+  border: 1px solid rgb(0, 74, 74);
+  cursor: pointer;
+}
+
+@media screen and (min-width: 550px) {
+  .spacer {
+    margin: 20px
+  }
+}
