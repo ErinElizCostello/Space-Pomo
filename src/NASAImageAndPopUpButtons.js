@@ -10,12 +10,14 @@ const NASAImageAndPopUpButtons = ({ NASAInformation }) => {
 
   return (
     <div className="display">
-      <button className="NASAImageBtns" onClick={getNewNASAImage}>
-        new NASA image
-      </button>
-      <button className="NASAImageBtns" onClick={togglePopUp}>
-        ?
-      </button>
+      <div className="NASABtnsDisplay">
+        <button className="NASAImageBtns" onClick={getNewNASAImage}>
+          new NASA image
+        </button>
+        <button className="NASAImageBtns" onClick={togglePopUp}>
+          ?
+        </button>
+      </div>
     </div>
   );
 }
