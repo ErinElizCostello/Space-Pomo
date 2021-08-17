@@ -9,8 +9,8 @@
 [NASA API](https://api.nasa.gov/)
 
 <p align="center">
-  <img src="https://github.com/ErinElizCostello/Recipes/blob/master/src/images/pinkSpaceSparkles.png" />
-  <img src="https://github.com/ErinElizCostello/Recipes/blob/master/src/images/prettyBeigeGoo.png" />
-  <img src="https://github.com/ErinElizCostello/Recipes/blob/master/src/images/saturn.png" />
-  <img src="https://github.com/ErinElizCostello/Recipes/blob/master/src/images/shootingStars.png" />
+  <img src="https://github.com/ErinElizCostello/Space-Pomo/blob/master/src/images/pinkSpaceSparkles.png" />
+  <img src="https://github.com/ErinElizCostello/Space-Pomo/blob/master/src/images/prettyBeigeGoo.png" />
+  <img src="https://github.com/ErinElizCostello/Space-Pomo/blob/master/src/images/saturn.png" />
+  <img src="https://github.com/ErinElizCostello/Space-Pomo/blob/master/src/images/shootingStars.png" />
 </p>
